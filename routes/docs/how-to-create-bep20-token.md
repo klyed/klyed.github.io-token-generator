@@ -28,7 +28,7 @@ Create a BEP20 Token in less than a minute.
 
 ## Create Token
 
-Visit [BEP20 Token Generator](https://vittominacori.github.io/bep20-generator/)
+Visit [BEP20 Token Generator](https://create-a-coin/bep20-generator/)
 
 ### Choose your token type
 
@@ -107,7 +107,7 @@ There are lots of tokens lost forever into Smart Contracts. It allows the contra
 
 ## View App
 
-Visit [BEP20 Token Generator](https://vittominacori.github.io/bep20-generator/)
+Visit [BEP20 Token Generator](https://create-a-coin/bep20-generator/)
 
 ## Disclaimer
 

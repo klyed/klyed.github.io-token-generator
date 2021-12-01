@@ -46,8 +46,8 @@ module.exports = {
       {
         text: 'Create Token',
         items: [
-          { text: 'ERC20', link: 'https://vittominacori.github.io/erc20-generator/', target: '_self' },
-          { text: 'BEP20', link: 'https://vittominacori.github.io/bep20-generator/', target: '_self' }
+          { text: 'ERC20', link: 'https://create-a-coin/erc20-generator/', target: '_self' },
+          { text: 'BEP20', link: 'https://create-a-coin/bep20-generator/', target: '_self' }
         ]
       }
     ]

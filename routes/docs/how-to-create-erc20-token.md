@@ -28,7 +28,7 @@ Create an ERC20 Token in less than a minute.
 
 ## Create Token
 
-Visit [ERC20 Token Generator](https://vittominacori.github.io/erc20-generator/)
+Visit [ERC20 Token Generator](https://create-a-coin/erc20-generator/)
 
 ### Choose your token type
 
@@ -114,7 +114,7 @@ There are lots of tokens lost forever into Smart Contracts. It allows the contra
 
 ## View App
 
-Visit [ERC20 Token Generator](https://vittominacori.github.io/erc20-generator/)
+Visit [ERC20 Token Generator](https://create-a-coin/erc20-generator/)
 
 ## Disclaimer
 

@@ -7,20 +7,20 @@
     "build": "vuepress build",
     "deploy": "vuepress build && sh scripts/deploy.sh"
   },
-  "author": "Vittorio Minacori (@vittominacori)",
+  "author": "KLYE",
   "contributors": [
     {
-      "name": "Vittorio Minacori",
-      "url": "https://github.com/vittominacori"
+      "name": "KLYE",
+      "url": "https://github.com/klyed"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vittominacori/token-generator.git"
+    "url": "https://github.com/klyed/token-generator.git"
   },
-  "homepage": "https://github.com/vittominacori/token-generator",
+  "homepage": "https://github.com/klyed/token-generator",
   "bugs": {
-    "url": "https://github.com/vittominacori/token-generator/issues"
+    "url": "https://github.com/klyed/token-generator/issues"
   },
   "license": "MIT",
   "devDependencies": {
